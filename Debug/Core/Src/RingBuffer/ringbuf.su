@@ -1,0 +1,4 @@
+../Core/Src/RingBuffer/ringbuf.c:4:6:ringbuf_init	16	static
+../Core/Src/RingBuffer/ringbuf.c:9:6:ringbuf_addSample	16	static
+../Core/Src/RingBuffer/ringbuf.c:16:7:ringbuf_averageOldestSamples	32	static
+../Core/Src/RingBuffer/ringbuf.c:27:7:ringbuf_averageNewestSamples	32	static

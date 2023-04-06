@@ -1,0 +1,15 @@
+../Core/Src/Lora/LoRa.c:10:6:close	16	static
+../Core/Src/Lora/LoRa.c:14:6:LoRaE22_Init	24	static
+../Core/Src/Lora/LoRa.c:27:20:LoRaE22_SetMode	24	static
+../Core/Src/Lora/LoRa.c:67:20:LoRaE22_waitCompleteResponse	24	static
+../Core/Src/Lora/LoRa.c:89:6:_managedDelay	24	static
+../Core/Src/Lora/LoRa.c:98:20:LoRaE22_sendStruct	24	static
+../Core/Src/Lora/LoRa.c:113:20:LoRaE22_receiveStruct	32	static
+../Core/Src/Lora/LoRa.c:129:10:parseNumber	56	dynamic
+../Core/Src/Lora/LoRa.c:141:9:parseMotor	32	static
+../Core/Src/Lora/LoRa.c:159:6:parseSetDate	64	static
+../Core/Src/Lora/LoRa.c:199:6:parseTData	32	static
+../Core/Src/Lora/LoRa.c:240:6:parseTError	32	static
+../Core/Src/Lora/LoRa.c:250:6:parseGSCommand	24	static
+../Core/Src/Lora/LoRa.c:327:6:parseESP	48	static
+../Core/Src/Lora/LoRa.c:379:6:UART_decode_process	32	static

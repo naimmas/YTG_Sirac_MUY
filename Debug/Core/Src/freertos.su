@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:95:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:162:6:StartMotorTask	24	static
+../Core/Src/freertos.c:238:6:StartDataCom	16	static
+../Core/Src/freertos.c:287:6:StartSensors	32	static
+../Core/Src/freertos.c:381:6:TelemTimCall	16	static
+../Core/Src/freertos.c:388:6:TimeoutTimerCall	16	static
+../Core/Src/freertos.c:395:6:TahrikTimerCall	16	static
