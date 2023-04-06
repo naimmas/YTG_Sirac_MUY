@@ -1,3 +1,0 @@
-../Core/Src/Kalman/kalmanfilter4d.c:69:6:kalmanFilter4d_configure	32	static
-../Core/Src/Kalman/kalmanfilter4d.c:109:6:kalmanFilter4d_predict	88	static
-../Core/Src/Kalman/kalmanfilter4d.c:177:6:kalmanFilter4d_update	152	static
